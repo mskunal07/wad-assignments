@@ -1,27 +1,5 @@
-# Assign3
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="1169" alt="Screenshot 2024-01-31 at 1 00 00 AM" src="https://github.com/mskunal07/wad-assignments/assets/121332158/52d99c51-bfb2-4f00-baa1-ecf6120f708f">
+<img width="1169" alt="Screenshot 2024-01-31 at 1 00 11 AM" src="https://github.com/mskunal07/wad-assignments/assets/121332158/ed9eab31-b412-402a-97a5-61aa6df1680c">
+<img width="1464" alt="Screenshot 2024-01-31 at 1 02 10 AM" src="https://github.com/mskunal07/wad-assignments/assets/121332158/4d234fd0-3fb5-40fb-adea-88c5b456e328">
+<img width="1464" alt="Screenshot 2024-01-31 at 1 02 42 AM" src="https://github.com/mskunal07/wad-assignments/assets/121332158/42d48b36-3cf7-4b75-83ab-b22b2e4feaea">
+<img width="1464" alt="Screenshot 2024-01-31 at 1 06 15 AM" src="https://github.com/mskunal07/wad-assignments/assets/121332158/e464ba02-7d8e-436a-8504-c1e993930b9b">
